@@ -1,0 +1,9 @@
+\\Mac\Home\Documents\Software_Engineering\ECE\EC447\Lab6\Lab6\bin\Debug\Lab6.exe.config
+\\Mac\Home\Documents\Software_Engineering\ECE\EC447\Lab6\Lab6\bin\Debug\Lab6.exe
+\\Mac\Home\Documents\Software_Engineering\ECE\EC447\Lab6\Lab6\bin\Debug\Lab6.pdb
+\\Mac\Home\Documents\Software_Engineering\ECE\EC447\Lab6\Lab6\obj\Debug\Lab6.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Software_Engineering\ECE\EC447\Lab6\Lab6\obj\Debug\Lab6.Form1.resources
+\\Mac\Home\Documents\Software_Engineering\ECE\EC447\Lab6\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+\\Mac\Home\Documents\Software_Engineering\ECE\EC447\Lab6\Lab6\obj\Debug\Lab6.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Software_Engineering\ECE\EC447\Lab6\Lab6\obj\Debug\Lab6.exe
+\\Mac\Home\Documents\Software_Engineering\ECE\EC447\Lab6\Lab6\obj\Debug\Lab6.pdb
